@@ -108,7 +108,7 @@
                         <asp:Button
                             ID="btnApplyLeave"
                             runat="server"
-                            Text="Apply Leave"
+                            Text="ApplyLeave"
                             OnClick="btnApplyLeave_Click" />
                     </td>
                 </tr>
